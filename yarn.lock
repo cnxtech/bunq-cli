@@ -246,7 +246,7 @@ get-caller-file@^1.0.1:
 
 get-stream@^3.0.0:
   version "3.0.0"
-  resolved "http://registry.npmjs.org/get-stream/-/get-stream-3.0.0.tgz#8e943d1358dc37555054ecbe2edb05aa174ede14"
+  resolved "https://registry.npmjs.org/get-stream/-/get-stream-3.0.0.tgz#8e943d1358dc37555054ecbe2edb05aa174ede14"
   integrity sha1-jpQ9E1jcN1VQVOy+LtsFqhdO3hQ=
 
 has-flag@^3.0.0:
@@ -425,7 +425,7 @@ p-finally@^1.0.0:
 
 p-is-promise@^1.1.0:
   version "1.1.0"
-  resolved "http://registry.npmjs.org/p-is-promise/-/p-is-promise-1.1.0.tgz#9c9456989e9f6588017b0434d56097675c3da05e"
+  resolved "https://registry.npmjs.org/p-is-promise/-/p-is-promise-1.1.0.tgz#9c9456989e9f6588017b0434d56097675c3da05e"
   integrity sha1-nJRWmJ6fZYgBewQ01WCXZ1w9oF4=
 
 p-limit@^2.0.0:
@@ -490,9 +490,9 @@ require-main-filename@^1.0.1:
   integrity sha1-l/cXtp1IeE9fUmpsWqj/3aBVpNE=
 
 semver@^5.5.0:
-  version "5.6.0"
-  resolved "https://registry.yarnpkg.com/semver/-/semver-5.6.0.tgz#7e74256fbaa49c75aa7c7a205cc22799cac80004"
-  integrity sha512-RS9R6R35NYgQn++fkDWaOmqGoj4Ek9gGs+DPxNUZKuwE183xjJroKvyo1IzVFeXvUrvmALy6FWD5xrdJT25gMg==
+  version "5.7.2"
+  resolved "https://registry.yarnpkg.com/semver/-/semver-5.7.2.tgz#48d55db737c3287cd4835e17fa13feace1c41ef8"
+  integrity sha512-cBznnQ9KjJqU67B52RMC65CMarK2600WFnbkcaiwWq3xy/5haFJlshgnpjovMVJ+Hff49d8GEn0b87C5pDQ10g==
 
 set-blocking@^2.0.0:
   version "2.0.0"
@@ -574,7 +574,7 @@ string-width@^2.0.0, string-width@^2.1.1:
 
 strip-ansi@^3.0.0, strip-ansi@^3.0.1:
   version "3.0.1"
-  resolved "http://registry.npmjs.org/strip-ansi/-/strip-ansi-3.0.1.tgz#6a385fb8853d952d5ff05d0e8aaf94278dc63dcf"
+  resolved "https://registry.npmjs.org/strip-ansi/-/strip-ansi-3.0.1.tgz#6a385fb8853d952d5ff05d0e8aaf94278dc63dcf"
   integrity sha1-ajhfuIU9lS1f8F0Oiq+UJ43GPc8=
   dependencies:
     ansi-regex "^2.0.0"
@@ -588,7 +588,7 @@ strip-ansi@^4.0.0:
 
 strip-eof@^1.0.0:
   version "1.0.0"
-  resolved "http://registry.npmjs.org/strip-eof/-/strip-eof-1.0.0.tgz#bb43ff5598a6eb05d89b59fcd129c983313606bf"
+  resolved "https://registry.npmjs.org/strip-eof/-/strip-eof-1.0.0.tgz#bb43ff5598a6eb05d89b59fcd129c983313606bf"
   integrity sha1-u0P/VZim6wXYm1n80SnJgzE2Br8=
 
 supports-color@^5.3.0:
@@ -631,7 +631,7 @@ which@^1.2.9:
 
 wrap-ansi@^2.0.0:
   version "2.1.0"
-  resolved "http://registry.npmjs.org/wrap-ansi/-/wrap-ansi-2.1.0.tgz#d8fc3d284dd05794fe84973caecdd1cf824fdd85"
+  resolved "https://registry.npmjs.org/wrap-ansi/-/wrap-ansi-2.1.0.tgz#d8fc3d284dd05794fe84973caecdd1cf824fdd85"
   integrity sha1-2Pw9KE3QV5T+hJc8rs3Rz4JP3YU=
   dependencies:
     string-width "^1.0.1"
